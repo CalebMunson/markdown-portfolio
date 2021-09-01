@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**klee** is a *pyro catalyst* user. **ayaka**, on the other hand, is a *cryo sword* user.
